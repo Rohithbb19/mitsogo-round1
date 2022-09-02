@@ -104,7 +104,7 @@ function IsMobilOrTab(){
                  {/* graph2 */}
                  <div className="graph2 bg-white p-4 rounded-lg mt-5 flex flex-col items-center">
                   <p className="text w-11/12">Sales Distribution</p>
-                  <div className="mt-6 w-3/5">
+                  <div className="mt-6 w-9/12	">
                       <Graph2></Graph2>
                     </div>
                 </div>

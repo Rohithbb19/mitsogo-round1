@@ -39,11 +39,11 @@ function Graph2() {
 
       var text = "16,460",
         textX = Math.round((width - ctx.measureText(text).width) / 1.70),
-        textY = height / 2.5
+        textY = height / 2.7
     
         var text2 = "Sales",
         textX2 = Math.round((width - ctx.measureText(text).width) / 1.68),
-        textY2 = height / 2.1
+        textY2 = height / 2.4
 
       ctx.fillText(text, textX, textY);
       ctx.fillText(text2, textX2, textY2);
