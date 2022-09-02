@@ -16,7 +16,7 @@ function Profileset2(){
 
     return(
         <div className="relative">
-        <img onClick={clickpro} src="public\profile-pic-01.jpg" className="profilepic rounded-full ml-2"/>
+        <img onClick={clickpro} src="profile-pic-01.jpg" className="profilepic rounded-full ml-2"/>
         {Isprooptionopen && <div ref={ref} className="bg-white absolute proWidth right-0 top-12 rounded-lg p-3 shadow">
             <div className="flex ml-2 gap-4">
             <div className="iconsvg" id="myProfile"></div>

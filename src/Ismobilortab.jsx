@@ -58,7 +58,7 @@ function IsMobilOrTab(){
               </div>
               {/* otheruser */}
               <div className="w-11/12 mt-5 flex">
-                <img className="otherUserPic rounded-full" src="public\profile-pic-03.jpg"/>
+                <img className="otherUserPic rounded-full" src=" profile-pic-03.jpg"/>
                 <div className="flex flex-col w-11/12 ml-4">
                   <p className="font-semibold">Drew James</p>
                   <div className="flex justify-between">
