@@ -1,0 +1,199 @@
+body{
+    background-color: #F5F7FB;
+}
+
+.bgfull{
+    background-color: #F5F7FB;
+}
+.text{
+    color: #4D4F5C;
+}
+
+.searchbar{
+    width: 243px;
+}
+
+.name{
+    width: 63px;
+}
+
+.profilepic{
+    width: 30px;
+    height: 30px;
+}
+
+.topbar{
+    height: 70px;
+}
+
+.iconsvg{
+    width: 24px;
+    height: 24px;
+    background-image: url(public/icons.png);
+}
+
+#menu{
+    background-position: 0px -35px;
+}
+
+#search{
+    background-position: -165px -35px;
+}
+
+#notification{
+    background-position: -195px -35px;
+}
+
+#openarrow{
+    background-position: -224px -35px;
+}
+
+#downarrow{
+    background-position: -224px -35px;
+    transform: scaleY(-1);
+}
+
+#plus{
+    background-position: -281px -36px;
+    background-color: #514DDC;
+}
+
+#twitter{
+    background-position: -279px 0px;
+}
+
+#facebook{
+    background-position: -307px 0px;
+}
+
+#linkedin{
+    background-position: -335px 0px;
+}
+
+#whatsapp{
+    background-position: -363px 0px;
+}
+
+#options{
+    background-position: -140px -35px;
+}
+
+#myProfile{
+    background-position: -28px -35px;
+}
+
+#billing{
+    background-position: -55px -35px;
+}
+
+#logout{
+    background-position: -82px -35px;
+}
+
+#edit{
+    width: 15px;
+    height: 15px;
+    background-position: -257px -40px;
+    background-color: #6763E3;
+}
+
+.topbutton{
+    background-color: #6763E3;
+    border-radius: 6px;
+    width: 160px;
+    height: 48px;
+}
+
+.refwidth{
+    width: 600px;
+}
+
+.proWidth{
+    width: 165px;
+}
+
+.w70{
+    width: 70%;
+}
+
+.w30{
+    width: 30%;
+}
+
+.w25{
+    width: 25%;
+}
+
+.w7{
+    width: 7%;
+}
+
+.w95{
+    width: 99.7%;
+}
+
+.w10{
+    width: 300px;
+ }
+.h15{
+    height: 218px;
+}
+.h16{
+    height: 300px;
+}
+
+.greendot{
+    background-color: #81E37A;
+    width: 10px;
+    height: 10px;
+}
+
+.lighttext{
+    color: #4D4F5C;
+    opacity: 0.5;
+}
+
+.referrer{
+    background-color: white;
+}
+
+.tablehead{
+    background-color: #F5F6FA;
+}
+
+.linktext{
+    color: #3B86FF;
+}
+
+.lborder{
+    border-bottom-width: 1px;
+    border-color: #F0F4F7;
+}
+
+.profilePicInfo{
+    width: 96px;
+    height: 96px;
+}
+
+.otherUserPic{
+    width: 50px;
+    height: 50px;
+}
+
+.refscroll{
+    overflow: auto;
+}
+
+.refscroll::-webkit-scrollbar{
+    display: none;
+}
+
+.MobileSideBar{
+    min-width: 300px;
+}
+
+.alinetext{
+    width: 20%;
+    top: 42%;
+    right: 41%;
+}

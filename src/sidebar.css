@@ -1,0 +1,41 @@
+.sec{
+    background-color: #43425D;
+    width: 250px;
+}
+
+.selected{
+    background-color: #3C3B54;
+}
+
+#home{
+    background-position: 0px 0px;
+}
+
+#dashbord{
+    background-position: -84px 0px;
+}
+
+#inbox{
+    background-position: -112px 0px;
+}
+
+#products{
+    background-position: -168px 0px;
+}
+
+#admin{
+    background-position: -224px 0px;
+}
+
+
+.logo{
+    background-color: #3C3B54;
+}
+
+.new{
+    background-color: #FF4A33;
+}
+
+.notewid{
+    width: 450px;
+}
