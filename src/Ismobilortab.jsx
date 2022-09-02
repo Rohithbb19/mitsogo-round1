@@ -41,7 +41,7 @@ function IsMobilOrTab(){
         {/* profileinfo */}
         <div className=" bg-white flex flex-col items-center p-4 rounded-lg mt-5">
               <div className="relative">
-                <img src="public/profile-pic-01.jpg " className="profilePicInfo rounded-full mt-8"/>
+                <img src=" profile-pic-01.jpg " className="profilePicInfo rounded-full mt-8"/>
                 <div className="iconsvg rounded-full absolute right-2 bottom-0" id="edit"></div>
               </div>
               <p className="text font-semibold">Nick Herasimenka</p>
@@ -68,7 +68,7 @@ function IsMobilOrTab(){
                 </div>
               </div>
               <div className="w-11/12 mt-5 flex">
-                <img className="otherUserPic rounded-full" src="public/profile-pic-02.jpg"/>
+                <img className="otherUserPic rounded-full" src=" profile-pic-02.jpg"/>
                 <div className="flex flex-col w-11/12 ml-4">
                   <p className="font-semibold">Bavid Kames</p>
                   <div className="flex justify-between">
@@ -78,7 +78,7 @@ function IsMobilOrTab(){
                 </div>
               </div>
               <div className="w-11/12 mt-5 flex">
-                <img className="otherUserPic rounded-full" src="public/profile-pic-04.jpg"/>
+                <img className="otherUserPic rounded-full" src=" profile-pic-04.jpg"/>
                 <div className="flex flex-col w-11/12 ml-4">
                   <p className="font-semibold">Lavid Emes</p>
                   <div className="flex justify-between">

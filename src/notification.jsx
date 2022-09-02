@@ -27,7 +27,7 @@ function Notification(props){
         </div>
         {isnotificationopen && <div ref={ref}  className={"absolute z-50 top-12 -right-10 rounded-lg p-4 bg-white notewid shadow " + props.className}>
         <div className="w-11/12 mt-5 flex">
-                  <img className="otherUserPic rounded-full" src="public/profile-pic-02.jpg"/>
+                  <img className="otherUserPic rounded-full" src=" profile-pic-02.jpg"/>
                   <div className="flex flex-col w-11/12 ml-4">
                     <div className="flex justify-between">
                     <p className="font-semibold">Bavid Kames</p>
@@ -37,7 +37,7 @@ function Notification(props){
                   </div>
                 </div>
         <div className="w-11/12 mt-5 flex">
-                  <img className="otherUserPic rounded-full" src="public/profile-pic-06.jpg"/>
+                  <img className="otherUserPic rounded-full" src=" profile-pic-06.jpg"/>
                   <div className="flex flex-col w-11/12 ml-4">
                     <div className="flex justify-between">
                     <p className="font-semibold">Alexa Marry</p>
@@ -47,7 +47,7 @@ function Notification(props){
                   </div>
                 </div>
         <div className="w-11/12 mt-5 flex pb-4 lborder">
-                  <img className="otherUserPic rounded-full" src="public/profile-pic-05.jpg"/>
+                  <img className="otherUserPic rounded-full" src=" profile-pic-05.jpg"/>
                   <div className="flex flex-col w-11/12 ml-4">
                     <div className="flex justify-between">
                     <p className="font-semibold">Eva Maria</p>

@@ -29,7 +29,7 @@ body{
 .iconsvg{
     width: 24px;
     height: 24px;
-    background-image: url(public/icons.png);
+    background-image: url( icons.png);
 }
 
 #menu{

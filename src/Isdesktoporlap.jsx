@@ -33,7 +33,7 @@ function IsDesktopOrLap(){
             <Notification/>
             <p className="name text-sm ml-7 text">John Doe</p>
                 <Profileset></Profileset>
-            <img src="public\profile-pic-01.jpg" className="profilepic rounded-full ml-2"/>
+            <img src="profile-pic-01.jpg" className="profilepic rounded-full ml-2"/>
           </div>
         </div>
         {/* total dash boa rd */}
@@ -133,7 +133,7 @@ function IsDesktopOrLap(){
               {/* profileinfo */}
               <div className=" bg-white flex flex-col items-center p-4 rounded-lg">
                 <div className="relative">
-                <img src="public/profile-pic-01.jpg " className="profilePicInfo rounded-full mt-8"/>
+                <img src="profile-pic-01.jpg " className="profilePicInfo rounded-full mt-8"/>
                 <div className="iconsvg rounded-full absolute right-2 bottom-0" id="edit"></div>
                 </div>
                 <p className="text font-semibold">Nick Herasimenka</p>
@@ -160,7 +160,7 @@ function IsDesktopOrLap(){
                   </div>
                 </div>
                 <div className="w-11/12 mt-5 flex">
-                  <img className="otherUserPic rounded-full" src="public/profile-pic-02.jpg"/>
+                  <img className="otherUserPic rounded-full" src=" profile-pic-02.jpg"/>
                   <div className="flex flex-col w-11/12 ml-4">
                     <p className="font-semibold">Bavid Kames</p>
                     <div className="flex justify-between">
@@ -170,7 +170,7 @@ function IsDesktopOrLap(){
                   </div>
                 </div>
                 <div className="w-11/12 mt-5 flex">
-                  <img className="otherUserPic rounded-full" src="public/profile-pic-04.jpg"/>
+                  <img className="otherUserPic rounded-full" src=" profile-pic-04.jpg"/>
                   <div className="flex flex-col w-11/12 ml-4">
                     <p className="font-semibold">Lavid Emes</p>
                     <div className="flex justify-between">
